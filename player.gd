@@ -17,13 +17,14 @@ func _physics_process(delta: float) -> void:
 	
 	if is_on_floor() and not direction:
 		$AnimatedSprite2D.animation = "idle"
-	else:
+	elif not is_on_floor():
 		velocity += get_gravity() * delta
+		$AnimatedSprite2D.animation = "jump"
 
 	# Handle jump.
 	if Input.is_action_just_pressed("jump") and is_on_floor():
 		velocity.y = JUMP_VELOCITY
-		$AnimatedSprite2D.animation = "jump"
+		
 		
 
 	# Get the input direction and handle the movement/deceleration.
