@@ -1,7 +1,7 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1768102138
+::res://::1768155889
 icon.svg::CompressedTexture2D::6448145510950500058::1767472617::1767472625::1::::<><><>0<>0<>19d08e845343ebb35a4858057022a7ff<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d.tscn::PackedScene::560975928209612052::1768086353::0::1::::<><><>0<>0<><>::uid://dqi6kf75dsavw::::res://player.gd<>uid://38w0nrtrtoxg::::res://sprites/eiax.png<>uid://bra87fkhhjrf2::::res://sprites/tilemap.png<>uid://co0p6q5xvf4og::::res://sprites/background-tiles.png
+node_2d.tscn::PackedScene::560975928209612052::1768155889::0::1::::<><><>0<>0<><>::uid://dqi6kf75dsavw::::res://player.gd<>uid://38w0nrtrtoxg::::res://sprites/eiax.png<>uid://bra87fkhhjrf2::::res://sprites/tilemap.png
 player.gd::GDScript::8300698969453380832::1767927462::0::1::::<>CharacterBody2D<><>0<>0<><>::
 ::res://addons/::1767473008
 ::res://addons/godot_super-wakatime/::1767473008
@@ -12,7 +12,6 @@ godot_super-wakatime.gd::GDScript::6277149880384411866::1767473008::0::1::::<>Ed
 plugin.cfg::TextFile::-1::1767473008::0::1::::<><><>0<>0<><>::
 README.md::TextFile::-1::1767473008::0::1::::<><><>0<>0<><>::
 utils.gd::GDScript::5251015809120159908::1767473008::0::1::::<>RefCounted<><>0<>0<><>::
-::res://sprites/::1768086211
-background-tiles.png::CompressedTexture2D::5808061624463741742::1768084631::1768084633::1::::<><><>0<>0<>8163e341c11bd902cd97882b85cd7b54<>res://.godot/imported/background-tiles.png-d7a83b0602f32540a11d464d4d5bbf5d.ctex::
-eiax.png::CompressedTexture2D::2034793216389345428::1767917951::1767917956::1::::<><><>0<>0<>1f3267141bfec31f658c0bb4552d2d2c<>res://.godot/imported/eiax.png-ceefb1ddc799577f141e4ad83600d71f.ctex::
-tilemap.png::CompressedTexture2D::3581692110098472353::1768086210::1768086211::1::::<><><>0<>0<>d050cf7e0d92de91d8ea03ce429860d3<>res://.godot/imported/tilemap.png-5afcb044bcaaf721941b7d5e7e0e18aa.ctex::
+::res://sprites/::1768154728
+eiax.png::CompressedTexture2D::2034793216389345428::1768154725::1768154728::1::::<><><>0<>0<>1f3267141bfec31f658c0bb4552d2d2c<>res://.godot/imported/eiax.png-ceefb1ddc799577f141e4ad83600d71f.ctex::
+tilemap.png::CompressedTexture2D::3581692110098472353::1768155992::1768156001::1::::<><><>0<>0<>d050cf7e0d92de91d8ea03ce429860d3<>res://.godot/imported/tilemap.png-5afcb044bcaaf721941b7d5e7e0e18aa.ctex::
